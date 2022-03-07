@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/ticketing/static/css/main.304196fe.chunk.css",
-    "main.js": "/ticketing/static/js/main.07e09e41.chunk.js",
-    "main.js.map": "/ticketing/static/js/main.07e09e41.chunk.js.map",
+    "main.js": "/ticketing/static/js/main.5f8f5168.chunk.js",
+    "main.js.map": "/ticketing/static/js/main.5f8f5168.chunk.js.map",
     "runtime-main.js": "/ticketing/static/js/runtime-main.524209cc.js",
     "runtime-main.js.map": "/ticketing/static/js/runtime-main.524209cc.js.map",
     "static/css/2.8edfb10f.chunk.css": "/ticketing/static/css/2.8edfb10f.chunk.css",
-    "static/js/2.37366d5c.chunk.js": "/ticketing/static/js/2.37366d5c.chunk.js",
-    "static/js/2.37366d5c.chunk.js.map": "/ticketing/static/js/2.37366d5c.chunk.js.map",
+    "static/js/2.4997577b.chunk.js": "/ticketing/static/js/2.4997577b.chunk.js",
+    "static/js/2.4997577b.chunk.js.map": "/ticketing/static/js/2.4997577b.chunk.js.map",
     "index.html": "/ticketing/index.html",
-    "precache-manifest.7706e3a1ab46f7880597caf3891125c1.js": "/ticketing/precache-manifest.7706e3a1ab46f7880597caf3891125c1.js",
+    "precache-manifest.9204441a286a7bfd395431662703a58d.js": "/ticketing/precache-manifest.9204441a286a7bfd395431662703a58d.js",
     "service-worker.js": "/ticketing/service-worker.js",
     "static/css/2.8edfb10f.chunk.css.map": "/ticketing/static/css/2.8edfb10f.chunk.css.map",
     "static/css/main.304196fe.chunk.css.map": "/ticketing/static/css/main.304196fe.chunk.css.map",
-    "static/js/2.37366d5c.chunk.js.LICENSE.txt": "/ticketing/static/js/2.37366d5c.chunk.js.LICENSE.txt",
-    "static/js/main.07e09e41.chunk.js.LICENSE.txt": "/ticketing/static/js/main.07e09e41.chunk.js.LICENSE.txt",
+    "static/js/2.4997577b.chunk.js.LICENSE.txt": "/ticketing/static/js/2.4997577b.chunk.js.LICENSE.txt",
+    "static/js/main.5f8f5168.chunk.js.LICENSE.txt": "/ticketing/static/js/main.5f8f5168.chunk.js.LICENSE.txt",
     "static/media/App.png": "/ticketing/static/media/App.20b238d4.png",
     "static/media/Computer.png": "/ticketing/static/media/Computer.169cde85.png",
     "static/media/File.png": "/ticketing/static/media/File.6a037b68.png",
@@ -40,8 +40,8 @@
   "entrypoints": [
     "static/js/runtime-main.524209cc.js",
     "static/css/2.8edfb10f.chunk.css",
-    "static/js/2.37366d5c.chunk.js",
+    "static/js/2.4997577b.chunk.js",
     "static/css/main.304196fe.chunk.css",
-    "static/js/main.07e09e41.chunk.js"
+    "static/js/main.5f8f5168.chunk.js"
   ]
 }
